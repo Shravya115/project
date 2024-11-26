@@ -1,2 +1,2 @@
 # project
-full stack
+React project
